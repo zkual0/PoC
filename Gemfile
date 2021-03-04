@@ -1,0 +1,13 @@
+#source 'http://rubygems.org'
+source 'https://rubygems.org'
+ruby   '2.5.7'
+
+gem 'rake',                 '~> 10.4.2'
+gem 'rspec',                '~> 3.4'
+gem 'capybara',             '~> 3.35'	#'~> 2.4.4'
+gem 'pry-byebug'   #'pry',                  '~> 0.10.3'
+gem 'selenium-webdriver',   '~> 3.0'
+gem 'webdrivers',           '~> 3.6.0'
+gem 'factory_bot',          '~> 5.0.2'    #gem 'factory_girl',         '~> 4.9.0'
+gem 'rubocop'
+gem 'rest-client'
